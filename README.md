@@ -8,3 +8,15 @@ Collection of notes, practical patterns, code snippets and tribal knowledge all-
 - [Java](./data-toolkit.md#java)
 - [SQL](./data-toolkit.md#sql)
 - [Regex](./data-toolkit.md#regex)
+
+## Productivity
+
+- [Chrome](./data-toolkit.md#chrome)
+    - [Tab Shortcuts](./data-toolkit.md#chrome--new-tab)<br>
+Opens a new tab: `Ctrl+T`<br>
+Opens a new window: `Ctrl+N`<br>
+Opens a new window in incognito mode: `Ctrl+Shift+N`<br>
+Reopens the last tab you’ve closed: `Ctrl+Shift+T`. *Google Chrome remembers the last 10 tabs closed*
+
+    - [New Window](./data-toolkit.md#chrome--new-window)
+    - [Useful arguments](./data-toolkit.md#useful-arguments)
