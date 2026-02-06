@@ -11,6 +11,8 @@ Collection of notes, practical patterns, code snippets and tribal knowledge all-
 
 ## Productivity
 
+- [Windows]
+
 - [Chrome](./data-toolkit.md#chrome)
     - [Tab Shortcuts](./data-toolkit.md#chrome--new-tab)<br>
 Opens a new tab: `Ctrl+T`<br>
@@ -18,5 +20,5 @@ Opens a new window: `Ctrl+N`<br>
 Opens a new window in incognito mode: `Ctrl+Shift+N`<br>
 Reopens the last tab you’ve closed: `Ctrl+Shift+T`. *Google Chrome remembers the last 10 tabs closed*
 
-    - [New Window](./data-toolkit.md#chrome--new-window)
+- [VS Code](./data-toolkit.md#chrome--new-window)
     - [Useful arguments](./data-toolkit.md#useful-arguments)
